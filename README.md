@@ -1,14 +1,13 @@
 # Master_thesis
 
-EPFL Master thesis 2024
+This repository provides a framework for using the **desilike pipeline** to analyze the impact of spectroscopic systematics on clustering and the measurement of cosmological parameters.
 
-Title: The Impact of Spectroscopic Systematics on the Measurement of Cosmological Parameters with Full-modeling Algorithm
-
-link: https://www.overleaf.com/read/tctqrhxnwnmm#fcc023
+**EPFL Master Thesis 2024**  
+**Title:** *The Impact of Spectroscopic Systematics on the Measurement of Cosmological Parameters with Full-Modeling Algorithm* [Thesis Link](https://www.overleaf.com/read/tctqrhxnwnmm#fcc023)
 
 ## Requirements
 Basic requirements
-  - numpy
+  - `numpy`
   - scipy
   - matplotlib
 
