@@ -1,15 +1,18 @@
-data/kbin2/
-data/kbin3/
-data/kbin5/
+main/data/kbin2/
+main/data/kbin3/
+main/data/kbin5/
 
-RSD_tests/model/
-RSD_tests/profiler_result/
-RSD_tests/sampler_result/
+main/RSD_tests/model/
+main/RSD_tests/profiler_result/
+main/RSD_tests/sampler_result/
 
-RU_tests/emulators/
-RU_tests/profiler_result/
-RU_tests/sampler_result/
+main/RU_tests/emulators/
+main/RU_tests/profiler_result/
+main/RU_tests/sampler_result/
 
-RC_tests/emulators/
-RC_tests/profiler_result/
-RC_tests/sampler_result/
+main/RC_tests/emulators/
+main/RC_tests/profiler_result/
+main/RC_tests/sampler_result/
+
+Documents
+packages
