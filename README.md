@@ -26,12 +26,11 @@ To add the spectroscopic systematics from to the box data, use
 To compute the pk, we use the pypower (https://github.com/cosmodesi/pypower)
 
 ## INSTALLATION
-Most the scripts are based on jupyter Notebooks
+Most scripts are written for **Jupyter Notebooks**. 
 
-Simply
-```
-git clone https://github.com/ShengyuHE/Master_thesis.git
-```
+To get started, simply clone the repository:
+ ```bash
+ git clone https://github.com/ShengyuHE/Master_thesis.git
 
 
 
