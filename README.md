@@ -5,8 +5,14 @@ Title: The Impact of Spectroscopic Systematics on the Measurement of Cosmologica
 link: https://www.overleaf.com/read/tctqrhxnwnmm#fcc023
 
 ## Requirements
+We use the desilike pipeline
 
+-- numpy
+-- matplotlib
+-- cosmoprimo
 -- desilike
+-- FOLPS (pk theory)
+
 
 ## DATA
 
