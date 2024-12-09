@@ -1,4 +1,6 @@
-# EPFL Master_thesis
+# Master_thesis
+
+EPFL Master thesis 2024
 
 Title: The Impact of Spectroscopic Systematics on the Measurement of Cosmological Parameters with Full-modeling Algorithm
 
