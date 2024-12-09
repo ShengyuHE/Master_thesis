@@ -7,11 +7,11 @@ link: https://www.overleaf.com/read/tctqrhxnwnmm#fcc023
 ## Requirements
 We use the desilike pipeline
 
--- numpy
--- matplotlib
--- cosmoprimo
--- desilike
--- FOLPS (pk theory)
+  - numpy
+  - matplotlib
+  - cosmoprimo
+  - desilike
+  - FOLPS (pk theory)
 
 
 ## DATA
