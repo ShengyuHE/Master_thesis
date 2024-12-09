@@ -29,9 +29,9 @@ To compute the pk, we use the pypower (https://github.com/cosmodesi/pypower)
 Most scripts are written for **Jupyter Notebooks**. 
 
 To get started, simply clone the repository:
- ```bash
+ ```
  git clone https://github.com/ShengyuHE/Master_thesis.git
-
+ ```
 
 
 
