@@ -1,0 +1,15 @@
+data/kbin2/
+data/kbin3/
+data/kbin5/
+
+RSD_tests/model/
+RSD_tests/profiler_result/
+RSD_tests/sampler_result/
+
+RU_tests/emulators/
+RU_tests/profiler_result/
+RU_tests/sampler_result/
+
+RC_tests/emulators/
+RC_tests/profiler_result/
+RC_tests/sampler_result/
