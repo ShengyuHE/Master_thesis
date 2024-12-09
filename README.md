@@ -3,6 +3,7 @@
 This repository provides a framework for using the **desilike pipeline** to analyze the impact of spectroscopic systematics on clustering and the measurement of cosmological parameters.
 
 **EPFL Master Thesis 2024**  [Thesis Link](https://www.overleaf.com/read/tctqrhxnwnmm#fcc023)
+
 **Title:** *The Impact of Spectroscopic Systematics on the Measurement of Cosmological Parameters with Full-Modeling Algorithm* 
 
 ## Requirements
