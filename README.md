@@ -21,6 +21,8 @@ We use the desilike pipeline
 ## DATA
 
 The analysis are based on the QUIJOTE simulation (https://quijote-simulations.readthedocs.io/en/latest/)
+To add the spectroscopic systematics to the box data, use 
+We use the pypower (https://github.com/cosmodesi/pypower) to calculate the pkl
 
 
 
